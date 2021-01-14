@@ -1,0 +1,5 @@
+A = float(input("A = "))
+B = float(input("B = "))
+C = float(input("C = "))
+MEDIA = ((A*2) + (B*3) + (C*5))
+print(f'MEDIA = {MEDIA:.1f}')
